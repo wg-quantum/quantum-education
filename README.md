@@ -1,4 +1,4 @@
-# 量子人材育成のための教材
+# 量子人材育成のための教材（2021年度版）
 
 [2021年度「**IBM Community Japan ナレッジモール研究**」](https://www.ibm.com/ibm/jp/ja/ibmcommunityjapan-whatis-kmr-themes.html)における、  
 テーマ「**2021-B-10a：量子コンピューターの活用研究 －機械学習・量子化学計算・組み合わせ最適化への適用－**」の研究成果物です。
